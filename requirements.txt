@@ -1,3 +1,4 @@
 setuptools~=57.0.0
 opencv-python~=4.5.2.52
 pytesseract~=0.3.7
+imutils~=0.5.4
