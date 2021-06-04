@@ -1,0 +1,10 @@
+README.md
+setup.py
+ImageVoiceToText/__init__.py
+ImageVoiceToText/image.py
+ImageVoiceToText/voice.py
+Image_Voice_ToText.egg-info/PKG-INFO
+Image_Voice_ToText.egg-info/SOURCES.txt
+Image_Voice_ToText.egg-info/dependency_links.txt
+Image_Voice_ToText.egg-info/requires.txt
+Image_Voice_ToText.egg-info/top_level.txt
